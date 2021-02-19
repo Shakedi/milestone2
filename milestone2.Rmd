@@ -1,0 +1,26 @@
+---
+title: "milestone2"
+author: "Shaked Leibovitz"
+date: "2/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Analysis of Gaming, Gender, and Psychology- by Osvaldo Cervantes:
+Pro- 
+The subject of project is very creative,and uses big data and a lot of cleaning.
+Looking at mental state according to GAD and it's relation to online gaming. 
+Con- 
+I think the data could be represented in a more appealing way.
+The bar chart has compartments in it but it is hard to understand what is represents. 
+It can also be interesting to see the difference in gender and age. 
+
+Food Insecurity in San Francisco- John Chua
+Pro-
+The app is interactive and the design is very nice and clean. 
+The data involves several datasets and answers many different questions related to covid and access to food. 
+Con- 
+It seems John had to spent a lot of time cleaning the data which is time consuming but turned out really cool. 
